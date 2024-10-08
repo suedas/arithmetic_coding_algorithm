@@ -1,0 +1,7 @@
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\bin\Debug\arithmetic.exe.config
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\bin\Debug\arithmetic.exe
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\bin\Debug\arithmetic.pdb
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.AssemblyReference.cache
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\obj\Debug\arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\obj\Debug\arithmetic.exe
+C:\Users\Gökçe Ailesi\source\repos\huffman\arithmetic\arithmetic\obj\Debug\arithmetic.pdb
